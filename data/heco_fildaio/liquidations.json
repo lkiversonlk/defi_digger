@@ -1,0 +1,1985 @@
+{
+    "startBlock": 2494178,
+    "records": [
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xbfac16852f0ecE5b52Fbd7c57A2630db285E2FeC",
+            "repay": "259727807",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "146688928928253529882",
+            "block": 1192193,
+            "txHash": "0x1da6eb8b90dc5613ef775d49b48cbae7ac4551e6e755e12761b750d503cb92f3"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xbfac16852f0ecE5b52Fbd7c57A2630db285E2FeC",
+            "repay": "100000000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "56475941249027908677",
+            "block": 1218234,
+            "txHash": "0x3ed9131f70a894ed7375c4364416037955b7494bc4e0202c67356e226135090b"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xbfac16852f0ecE5b52Fbd7c57A2630db285E2FeC",
+            "repay": "500000000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "282379706245139549750",
+            "block": 1218434,
+            "txHash": "0xf18ca3c5faa24dee7f3ee8852ea5a513e3b1e7bee03942bcae1d801c04a9e927"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xbfac16852f0ecE5b52Fbd7c57A2630db285E2FeC",
+            "repay": "1000000000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "564759412490279099501",
+            "block": 1218477,
+            "txHash": "0x3ffe02f798020f65e9dd0dc345348dee70ae1f732d4b4934fe3ddcc4bc2d1221"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xbfac16852f0ecE5b52Fbd7c57A2630db285E2FeC",
+            "repay": "1600000000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "903614608369530359862",
+            "block": 1218590,
+            "txHash": "0x93eed148680c262df38c9b12cb1c11dda3f0bc4ea1eae6b6be9878c0a6c195c5"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xbfac16852f0ecE5b52Fbd7c57A2630db285E2FeC",
+            "repay": "3000000000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "1694277390692869424741",
+            "block": 1218627,
+            "txHash": "0x29f486be28862917d35c7cf5e0630c7aa308ce2994f7c054c13691908aede2d6"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xbfac16852f0ecE5b52Fbd7c57A2630db285E2FeC",
+            "repay": "56943455",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "32159303972551736056",
+            "block": 1219157,
+            "txHash": "0x43fa7b0e2ad611e50d3767043cbf1713c23f1cb1547e41f9bb48be879a403c6e"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xbfac16852f0ecE5b52Fbd7c57A2630db285E2FeC",
+            "repay": "54346628",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "30692723680626534077",
+            "block": 1219231,
+            "txHash": "0x95dfdd15b0871f64975ee0188400bdfb35354e3e8f577b2ba2f58cb3772f3329"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xbfac16852f0ecE5b52Fbd7c57A2630db285E2FeC",
+            "repay": "50377064",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "28450878409479946935",
+            "block": 1219380,
+            "txHash": "0x6f7e188702f38e418b59ab8b63502855883fae300616cf998c4ba46fc9860576"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x7Dc3AD1e50721AB9C6AC0ffF58aB22c481a7274d",
+            "repay": "9044491427152",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "510838987280486",
+            "block": 1274984,
+            "txHash": "0x6c8326ae6dc2469cd396b48e4d1fbad0753a26ea08590cbe2f35a8f52d6c396b"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8c9bbFAff04B4A6807747125A92E814065d58fc2",
+            "repay": "49973091363409113",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "1542676401462113716",
+            "block": 1289265,
+            "txHash": "0x09dbed40a8d5e095d9064f92eb1f273ef0aaec97c20658f00898bb418022e5d5"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "11801628244266",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "666545077945292",
+            "block": 1289275,
+            "txHash": "0xe4543714f3b5b3c5efea16fc474510491675d990e74cde69c06e2b75ada471b3"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "6697851576666",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "49092477377338",
+            "block": 1290919,
+            "txHash": "0x3e65042c9a9b17c24abee39fc6f4227c83be8fa76cced781edaea05262f47656"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8c9bbFAff04B4A6807747125A92E814065d58fc2",
+            "repay": "30998525088355199",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "959774589393901937",
+            "block": 1291103,
+            "txHash": "0xfdd91a22d36bc76a8c4a0cce905540b82a4f7a28251faef053b0ab7695bec4bd"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x7Dc3AD1e50721AB9C6AC0ffF58aB22c481a7274d",
+            "repay": "32012333147216832",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "4946568485724427811",
+            "block": 1291191,
+            "txHash": "0x81c8d3cfe3676728fd1ecba4365af24f3d2f49e66ab2b62bc911a17511fdadf0"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "4926018827",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "34843420209",
+            "block": 1291211,
+            "txHash": "0xef1d8d0d170c623a4b8a6c04e79295501f83469e52c2b5af5b0e4bad5cd93958"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x7Dc3AD1e50721AB9C6AC0ffF58aB22c481a7274d",
+            "repay": "30226937201110783",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "4670687834322542937",
+            "block": 1291223,
+            "txHash": "0xabdc8ecc039e7fe024f209f64c9009e842fa4c3a724ee4c35a6cf1cdba1047c4"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "58200019978133683",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "8993108480048337567",
+            "block": 1291234,
+            "txHash": "0x44ade117816d10ac87e0d7731985993c0c28a5a7886794002ec12686d631c901"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x7Dc3AD1e50721AB9C6AC0ffF58aB22c481a7274d",
+            "repay": "19853512331033858",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "3067777312533306057",
+            "block": 1291278,
+            "txHash": "0xfd064ad6e4c1db9ea179a85979a63f7e6de29794f1d5095a6ee5c7b25b9782d9"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "49324547089761872",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "7626915334978659104",
+            "block": 1291327,
+            "txHash": "0xa402f658f55f2cac28baa75356aef3bccb6067bc27cf493a3b12ef6a73331d44"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "41594254107680413",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "6411156714685018753",
+            "block": 1298784,
+            "txHash": "0x5a7dd07b04e36bffca4d245d5bbaf151e1b77bb7d2c2e3d0491b903007191963"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "49943843",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "347049144",
+            "block": 1298869,
+            "txHash": "0xa313c2bb0ce3148704d92fee44967d15ef3f22cfdeb969081bb24696e1132867"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "34419676041036975",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "5236708884552911618",
+            "block": 1298973,
+            "txHash": "0x850778b2cc9da17bdab3511bc573202288d1d1c5df1fe440cab5d60a79d82faf"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "29170769450072825",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "4438125081895418958",
+            "block": 1299054,
+            "txHash": "0x0c8b179be7680543e7f6505e8bfb7efd0c01da45473844071968e76cb023a5c7"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "12127564683443803",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "1878447799397127757",
+            "block": 1299162,
+            "txHash": "0xc2f365682a9004a68c40bde281b63680ea0e5ffe3216dc117960374fe861de8b"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0x8abCc680D5B83AA87a63646eE6f67Aaacbef57AB",
+            "repay": "3046268",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "172046440",
+            "block": 1299251,
+            "txHash": "0x3c26bfb7977a160c510083ebf3195c2d3e44e40a96effd49caec9e552504e3ad"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB037079a946ce2f6819A572ED82E83d65655E6a8",
+            "repay": "599999999999999999",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "328788223347287167233",
+            "block": 1319069,
+            "txHash": "0xa1985b67deecd650400a447f807bae8ea7ecea4ed86eaef9980b4e645a74332f"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xD2954C6EB26F4F74f87E573f52aC2fdD8bcB7B24",
+            "repay": "10400183511",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "2297394687443616258430",
+            "block": 1319135,
+            "txHash": "0xbcb96aa85d04330ec474a569aebb5a56aef994573d5ba5514034795dc9a7224f"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB037079a946ce2f6819A572ED82E83d65655E6a8",
+            "repay": "2000000000000000000",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "1081961378283636124848",
+            "block": 1319185,
+            "txHash": "0xb52c664ef9fd2c76317dec2e29fffa3591dd1a522237a231e7f8e3a0dfbe16ba"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "1000000000000000000",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "6053243063387095951",
+            "block": 1319874,
+            "txHash": "0x7d387319d6785910313f5ad974ee0bd5a79c5360a2427cd5f2e3388ed0968ca4"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "30000000000000000000",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "181597215065373423210",
+            "block": 1319892,
+            "txHash": "0x6e4febc3f2f86dc886bfe79847edb222f538965c0a3b4a45d3a5f7971f59857f"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xD2954C6EB26F4F74f87E573f52aC2fdD8bcB7B24",
+            "repay": "599816489",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "132554337331049964984",
+            "block": 1319907,
+            "txHash": "0x35bf0f67f6c4937188742d0c0d3f39cddd8daa762e948a3ec495b97aa4bddd7e"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "100000000000000000000",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "605323580663237490000",
+            "block": 1319925,
+            "txHash": "0x6624b88213b87f7605a9e07886173f2de70d1364b41ed9747bce1ad065aaa8d5"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB037079a946ce2f6819A572ED82E83d65655E6a8",
+            "repay": "5602069300948996000",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "2958971104168142504008",
+            "block": 1319953,
+            "txHash": "0xed704c7d3b45c8cf4400875207e38e360ebaa5fa7eeed1beb5c40d2474af7a73"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "30000000000000000000",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "180486852136838549670",
+            "block": 1320021,
+            "txHash": "0xa7291d6bc8937006ba379cb187cbddefc3744faa2f1d5b0af0b9d962d65595b2"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB037079a946ce2f6819A572ED82E83d65655E6a8",
+            "repay": "10000000000000000000",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "5289096059047203827250",
+            "block": 1320075,
+            "txHash": "0x3f5dc88b7e674807a815b8b7f51cf58406b7ff53c4dc15d4208f12aabacdefc4"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB037079a946ce2f6819A572ED82E83d65655E6a8",
+            "repay": "3146030207397196659",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "1661620921257619122887",
+            "block": 1320167,
+            "txHash": "0x0980f5221f4ed56d7ef33e2a18e3a5a7e074e31bcb1fc69ec73d3975f1dc9a8e"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xD2954C6EB26F4F74f87E573f52aC2fdD8bcB7B24",
+            "repay": "5179401567",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "1149976690805340827782",
+            "block": 1320206,
+            "txHash": "0x31aa82dd1db8d7ef4b90cd874e8ec5816ca2967cbf236bf8a82294056d45b867"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "3238188971335747045",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "182871876023725545769",
+            "block": 1320257,
+            "txHash": "0x755f87023334175d7a28ba3f30e1360a58969c3156f78dd56e63a43e52d09a8f"
+        },
+        {
+            "liquidator": "0xb2aFb58264C9676B11EAF490256C0aD4cb7cc033",
+            "borrower": "0xB037079a946ce2f6819A572ED82E83d65655E6a8",
+            "repay": "1575363017738063192",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "834947139244099821472",
+            "block": 1320849,
+            "txHash": "0x5ba4085596099b63e6b226d8582267534c6dd4e1523b69d461903aa897bc4689"
+        },
+        {
+            "liquidator": "0x00d9cfb8A1a8a50e1B064043A2C4fE12A38ddD01",
+            "borrower": "0xD2954C6EB26F4F74f87E573f52aC2fdD8bcB7B24",
+            "repay": "563301107",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "124743291249864331412",
+            "block": 1321125,
+            "txHash": "0x1c4e983c3e3a0e24bd274d5d2ed76d54170c6173e014340a7046028644b6ca94"
+        },
+        {
+            "liquidator": "0x00d9cfb8A1a8a50e1B064043A2C4fE12A38ddD01",
+            "borrower": "0xD2954C6EB26F4F74f87E573f52aC2fdD8bcB7B24",
+            "repay": "3439899191",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "766386658424534643836",
+            "block": 1322159,
+            "txHash": "0xd738bfd0f0a8ab5d25e8772dd861e9af292c3e4d725d03d9a9ea933e8c983b23"
+        },
+        {
+            "liquidator": "0x00d9cfb8A1a8a50e1B064043A2C4fE12A38ddD01",
+            "borrower": "0xD2954C6EB26F4F74f87E573f52aC2fdD8bcB7B24",
+            "repay": "200000000",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "44558667255823361030",
+            "block": 1322189,
+            "txHash": "0x9252d319aa00fd90df1ea925164a624ed4f85300a9c36a211e9b1498a42a26c1"
+        },
+        {
+            "liquidator": "0x00d9cfb8A1a8a50e1B064043A2C4fE12A38ddD01",
+            "borrower": "0xD2954C6EB26F4F74f87E573f52aC2fdD8bcB7B24",
+            "repay": "150000000",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "33418999003995626555",
+            "block": 1322213,
+            "txHash": "0xf56c19e356275d8702055c3e2aa1d1cfaec2390a71e835fd7a120d96350b90d6"
+        },
+        {
+            "liquidator": "0x00d9cfb8A1a8a50e1B064043A2C4fE12A38ddD01",
+            "borrower": "0xD2954C6EB26F4F74f87E573f52aC2fdD8bcB7B24",
+            "repay": "1546799701",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "348004105463750066462",
+            "block": 1322514,
+            "txHash": "0x939a857777678dccfbe662ebe70c43b977edae24ec34a89cfbf78acac214b464"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0xe60Af575cbDfa217009F1c02a77Ff4d17D0b19a7",
+            "repay": "151031579610899800",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "294254148677004473796142",
+            "block": 1562759,
+            "txHash": "0x176cec057f9a72150238db00c0cb348cf2d8887c01c11a53506cc7175c933d42"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0x2CE2801c4267b9E5391DdAdc52e7A7edC2893661",
+            "repay": "11201911281960742000000",
+            "cCollateral": "0x09e3d97A7CFbB116B416Dae284f119c1eC3Bd5ea",
+            "seize": "12073330050702730881727",
+            "block": 1921916,
+            "txHash": "0xdc5c8e6a1c26dbcf910aaab2311d5f07f4af87efba81e67147a33434760bbc54"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0x05032AccF0e7F65BaC24f5eBB41b73C8C1ea044E",
+            "repay": "7706389555483708000000000",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "2553744578598503241537709",
+            "block": 1931092,
+            "txHash": "0x6cdc07746500ecaf7b273869531f4c189ac1412fa7c57c00d259d04ee521ad81"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0x05032AccF0e7F65BaC24f5eBB41b73C8C1ea044E",
+            "repay": "3853217486656127000000000",
+            "cCollateral": "0x033F8C30bb17B47f6f1f46F3A42Cc9771CCbCAAE",
+            "seize": "790173238278304516732",
+            "block": 1931215,
+            "txHash": "0x76d1b822f6111bedd5dbe44d725a54e9c538889030333e0700a16bfb5c8b35c8"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "1050908968852029600000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "611959865993003126248511",
+            "block": 2001698,
+            "txHash": "0x50dd3f6741cf79251390a94ee35a1ab51f9416fd118b584cd749f71edfac2fbb"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "525456975960379500000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "308751970626486209471309",
+            "block": 2002224,
+            "txHash": "0xe9a0432d5cd24cd1b68e61dfa4cf05c1d7950de3f10e44ce48debbeb1f5b3491"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "262733709660690200000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "155984926329156783428599",
+            "block": 2003513,
+            "txHash": "0x7ff3ae91b56ac6ad950ae46a023423c4f7b09ca5e67f7e7fc41b1dd8e167fe4a"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "131368103334346530000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "78925309150130190658718",
+            "block": 2004368,
+            "txHash": "0xade1a3b6599ab33c5d0996951a5767af2c9d8df5ec02ea5e96e59f05ea0ea6cb"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "65684621866444130000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "39645411974328265016082",
+            "block": 2004539,
+            "txHash": "0x4b59d49b41f2797ef57edf597ebbc07799b4eae10d22e05c856a82081921dfb7"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "32842319257061550000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "20049745302741940616633",
+            "block": 2004710,
+            "txHash": "0x14aa8ea485eff74b918c97eb52d73be1bbec753bf5f0c9c3e97cfc0ade8b02a7"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "16421227915934235000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "10070157621186728611395",
+            "block": 2004795,
+            "txHash": "0xdbf6599fb354891adce36a4ffaf66cd6ae9a9d391c350d7761ca7cfbb44e564e"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "8210631453124435000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "5128209143690487089169",
+            "block": 2004966,
+            "txHash": "0xd00f6fa134aa8d90ae058a68d92a15231a87e83fc8da4d2522df5862b1fdf218"
+        },
+        {
+            "liquidator": "0xcAF4289Cd4181532783531EefA1A013d73B227Db",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "4105327736540429000",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "2551394112025757230017",
+            "block": 2005137,
+            "txHash": "0x2aa9980f9d0aec6981b4017e04946b275e1909561853581b10f4f1d1ccb17857"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "2053176345238536200",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "1465141747157848071953",
+            "block": 2027305,
+            "txHash": "0x5c4220a298e098edc44cef229deb0657611f87551068001ba4a7c99c7daa2e1e"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xD55a647A2c2EA03866191Ec55bD70e5C3495b949",
+            "repay": "782579995848",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "558446944826695",
+            "block": 2027327,
+            "txHash": "0x9c622fcc6357469115242218c8d9883a71ce030d3d77893be9c0b6c260d8ab63"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xAa31aCE7420D176c9d764FE4597eFe956bd3D98f",
+            "repay": "56809541048187781",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "124198583595624567563",
+            "block": 2027334,
+            "txHash": "0xed62299376796623d0d10110c0147517dc7781130e97da95840b03b99fa5f1d3"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x2ea2A99ceD3e1bd788c2cB62B1bDe14d92392Ba5",
+            "repay": "2372579315095558",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "62393578717874271661",
+            "block": 2027340,
+            "txHash": "0x158c6c6f2ea70bff0fd6dc1b2f171dc43e6ceb1e1168fbbbae1b682de79fa618"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x2ea2A99ceD3e1bd788c2cB62B1bDe14d92392Ba5",
+            "repay": "1186289809663836",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "31196789028559314726",
+            "block": 2027347,
+            "txHash": "0xad7c81874bf943014781bf72cf2ef6fd771ab9aad1911c55a07c4e4a3415ce2f"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xee439Ee079AC05D9d33a6926A16e0c820fB2713A",
+            "repay": "1823768086164045271383",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "906072829790899240969",
+            "block": 2028470,
+            "txHash": "0xcc7125078c63fd7ec3bcace1b6de14ab7235cca6c9fc2a4565ff6fbc4d79fcbb"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x219D9aEe6b91929422461e81d2A7877E2C7ce33b",
+            "repay": "31491591490882570",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "6431822664646334844",
+            "block": 2028472,
+            "txHash": "0xa2b53fd81ac7fdb5d717a5ee7b1ccfd51f249be89b03122a5809378696cdaed4"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "18330573014706546",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "483216890713593421222",
+            "block": 2028479,
+            "txHash": "0xdfb0311e0717abce5d4d709f89e74bd24df7bb7ce029496fe35e6517904b2c31"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x319Be1E646c4730e74847064c05E7338DE89b914",
+            "repay": "7638144145535177",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "17006816838819949395",
+            "block": 2028486,
+            "txHash": "0x66c2fa29c7b1fffadbbfa2145648a61f07ff81cfe6ec269e1b3893bcfc7dd77d"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xee439Ee079AC05D9d33a6926A16e0c820fB2713A",
+            "repay": "911884548240094202532",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "453036442543925566504",
+            "block": 2028492,
+            "txHash": "0x9541eb99ea77c32ac956fe9eca606ce2647f585c40e61dec1df0ddcd95b96212"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xA33F77029FFc26140a11F309897BfC4a5Bf8d969",
+            "repay": "2255149079276467385687",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "1700781737891120489536688",
+            "block": 2028498,
+            "txHash": "0x36eb6ac6402d10186eff28cca34102f63bfcf50261cf68564c3785c5e417dcc5"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xA33F77029FFc26140a11F309897BfC4a5Bf8d969",
+            "repay": "1127574639358599349622",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "850390806625806377700511",
+            "block": 2028506,
+            "txHash": "0x901102bf162aa154a1ba9c8253d041e85b0af4be705b88d080e7b906c9a789d4"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "366312884823112092",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "459182338348948540944",
+            "block": 2028513,
+            "txHash": "0xe878de6d0201c2cb6110a01b1423c03ca473c9310d9f62d091fe9aae95f80856"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x319Be1E646c4730e74847064c05E7338DE89b914",
+            "repay": "3819075377829202",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "8575732033517660313",
+            "block": 2028519,
+            "txHash": "0x3390fd40730f9d527683a4229d99306f58920adfcb0333689ad79693ab49a3ad"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x319Be1E646c4730e74847064c05E7338DE89b914",
+            "repay": "55785387655037",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "5273476865384778326",
+            "block": 2028526,
+            "txHash": "0x4fdf95700780f75b30b49a415e8107a33031f3f7bc54347fd35118454e8021ac"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x319Be1E646c4730e74847064c05E7338DE89b914",
+            "repay": "27892697499062",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "2636738779768935932",
+            "block": 2028535,
+            "txHash": "0xb97953b4a6b982f07c522cefd3cee45e6e914aeed8fbd6abd0464b56f61bcab4"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "9165296732070287",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "242342391827068544556",
+            "block": 2028540,
+            "txHash": "0x393f6df31d64ec0eec0ee41ddfe13e0b6186c3a86e73e914179bd78b511b8b8e"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "183156518388286951",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "229591151238067662065",
+            "block": 2028546,
+            "txHash": "0x55fab12be6bcfb7b44fe0609371c71149ae6576938c9f5881fad5c9625997f29"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "1125336328067536368",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "227971517899581168886",
+            "block": 2028552,
+            "txHash": "0xb85b366bc4322710faa994f3028e58ce3b10be4a5eed1090de63fb38e3729b93"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x319Be1E646c4730e74847064c05E7338DE89b914",
+            "repay": "1909539691984799",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "4287866287312810768",
+            "block": 2028559,
+            "txHash": "0xa98c772daeb011fec749dbc3507ccc722504d96f01b2490bb0575858dfb06df5"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "4582650628883584",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "121171196015847448324",
+            "block": 2028567,
+            "txHash": "0x8f87df532c79e9990a9a5bda9ab5f980da669c53127058f4be7924ba8ce1ef05"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x319Be1E646c4730e74847064c05E7338DE89b914",
+            "repay": "954770171491816",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "2143932817730868414",
+            "block": 2028572,
+            "txHash": "0x70ffcdf77b2cf501f39376ca1692675d55c09ad01814fc183c7f8e2567e216c0"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x319Be1E646c4730e74847064c05E7338DE89b914",
+            "repay": "13946357363004",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "1318368904370751348",
+            "block": 2028579,
+            "txHash": "0x865455a682a52c0c90cbbc5ea964f0ac62a228595b726709d6e891732da47803"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "91578305240638208",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "114795520164411458092",
+            "block": 2028586,
+            "txHash": "0xc1ea14359c00f04f560796c889f43019b071c9c65121ffe657628b859d759b16"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xB82BE5753Ac1c0C7559bd69B4F4Ca4DF87951ee3",
+            "repay": "562668491970819235",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "113985713006943607481",
+            "block": 2028592,
+            "txHash": "0xd46ce67acaa08a1a7969e6ae00a459f9bff606f51411bdadf0c7fb4647078f0e"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x319Be1E646c4730e74847064c05E7338DE89b914",
+            "repay": "477385423764703",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "1081837494563495690",
+            "block": 2028599,
+            "txHash": "0x2b75c602678239ac03de62224a1ebb05da59c3c8f6fab17cad47254c22bf7e75"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x319Be1E646c4730e74847064c05E7338DE89b914",
+            "repay": "6973181148156",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "660812895311108410",
+            "block": 2028606,
+            "txHash": "0xa3e6bd65cc7814710e33fbe894460123cde21c985530c86310830e3e6aae6b86"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x319Be1E646c4730e74847064c05E7338DE89b914",
+            "repay": "3486590893829",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "330406315085882463",
+            "block": 2028613,
+            "txHash": "0x954919d541b388d3f3bd85e57334f6eaa0e50de3639c4c63fe61e4f82c708f9b"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x500Bd55C6f809AcC9de416b96872D5c217607Cd3",
+            "repay": "686517759671989299",
+            "cCollateral": "0x033F8C30bb17B47f6f1f46F3A42Cc9771CCbCAAE",
+            "seize": "97191665992134502",
+            "block": 2043910,
+            "txHash": "0x05f5cf20092040f0e798527d979a184b1b2e45f5cd65fb0568d799b87d3990b6"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x09653697A4Bec4e1945cB6868bB94f6204F6EbbE",
+            "repay": "111208906871484553",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "29815704777647806627",
+            "block": 2045203,
+            "txHash": "0xf094b8738375f3c363251a65c3aed8fe9ff0cef6e45ac22e77803c5659041228"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7B1513F0a52Abcb1ceAdA8BeD59F4762D99bD278",
+            "repay": "4253193215458055640034",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "2465690161264642931005",
+            "block": 2045799,
+            "txHash": "0x874d46839806bbd0a86b6a436f83786fc464b7809af5596f9f89bd3d0195f66e"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7B1513F0a52Abcb1ceAdA8BeD59F4762D99bD278",
+            "repay": "2126596798536390822384",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "1232845191248466516679",
+            "block": 2045803,
+            "txHash": "0x2b08d7286f7fe3ad1b963e283ef1d3050dfef467f5d74cbdc7293d8f2a48d771"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7B1513F0a52Abcb1ceAdA8BeD59F4762D99bD278",
+            "repay": "1063298566223475805222",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "616422388673744000586",
+            "block": 2045810,
+            "txHash": "0x187980a55c5c65f086163256a456b8dde133a408b28cee1ebb2aa7a8f554295b"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7B1513F0a52Abcb1ceAdA8BeD59F4762D99bD278",
+            "repay": "531649366589100558087",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "308211242730913827166",
+            "block": 2045817,
+            "txHash": "0x243e9136aa60913eb873ec5d87c3ed777af5fad455501b4776e325b3a3ec3f32"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7B1513F0a52Abcb1ceAdA8BeD59F4762D99bD278",
+            "repay": "265824725060031408971",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "154105645578014383360",
+            "block": 2045824,
+            "txHash": "0xca4abbeb91a9a52318aba0e1087de9dba2a03c1de4c2080c431ef10f357b5126"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7B1513F0a52Abcb1ceAdA8BeD59F4762D99bD278",
+            "repay": "132912380458276385380",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "77052795215148170939",
+            "block": 2045830,
+            "txHash": "0xe002453e6a86ca0b26c850b72b63bb80ea180cb44efcd94a8035b4a3b1e32d36"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7B1513F0a52Abcb1ceAdA8BeD59F4762D99bD278",
+            "repay": "66456200657411645516",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "38526403653117894388",
+            "block": 2045837,
+            "txHash": "0x37a353fbf78865a3151c23a775f91a77746192ca02d3d36b3d34c01374a277b4"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7B1513F0a52Abcb1ceAdA8BeD59F4762D99bD278",
+            "repay": "33228104795831721138",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "19263204416269069466",
+            "block": 2045843,
+            "txHash": "0x4aad72330ac9daeae97ae7ddce10ac44dbf5a1525ecb04f345540b16c1af7fc3"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7B1513F0a52Abcb1ceAdA8BeD59F4762D99bD278",
+            "repay": "16614055003739499035",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "9631598972883008328",
+            "block": 2045850,
+            "txHash": "0xf097dce60fc84a8cfa5b32c628feae284ad8c761a41a48f8f65f85a15b680709"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x8730A211A41326A8768aebbb1EDeb9aB76DFcaBD",
+            "repay": "275358630738555213008650",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "159632546322917204835672",
+            "block": 2045857,
+            "txHash": "0xceb133ec71ec0dbd499463acd48b4bf426e05fd133c2e264fa5a9374ee76a234"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x8730A211A41326A8768aebbb1EDeb9aB76DFcaBD",
+            "repay": "137679333861593243609506",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "79816283881934022565503",
+            "block": 2045863,
+            "txHash": "0x9760201436f69386f03583997c4e344ab232d329038467cc0927a64c9b7fd5f2"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x8730A211A41326A8768aebbb1EDeb9aB76DFcaBD",
+            "repay": "68840020573781570876428",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "42986904545885973783053",
+            "block": 2046100,
+            "txHash": "0x17df9cda81b6c5c4868367a26e0ed752e6fdc37f182bddcc72d939862f356209"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x8730A211A41326A8768aebbb1EDeb9aB76DFcaBD",
+            "repay": "34420012358465095517493",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "21493453566530152973859",
+            "block": 2046103,
+            "txHash": "0x09b983058e6dcd9d627a4545a419ce86ab32836615a67277ae933286dc12b7be"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xEEf9B002b971012dB31634B96535081ba5B733d5",
+            "repay": "750620673110075891246524",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "488047823771911600495696",
+            "block": 2046212,
+            "txHash": "0xc1befdfac7e5dc851cfeb48c7dc86df58c24df3ac8e9ce34116f45206df193ae"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xEEf9B002b971012dB31634B96535081ba5B733d5",
+            "repay": "375310396126565437335792",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "244023907055119315891470",
+            "block": 2046220,
+            "txHash": "0x429667109d67b69d22a721a16f2d870b90d415240c4ab4e7618a65740c1b2c43"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xEEf9B002b971012dB31634B96535081ba5B733d5",
+            "repay": "187655235226663348377117",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "122011951052477869842048",
+            "block": 2046230,
+            "txHash": "0x62c5fac9d477ab42c562e9fd715f6b85250a223e57f891145cf744de3c792e60"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7B1513F0a52Abcb1ceAdA8BeD59F4762D99bD278",
+            "repay": "8307105943850191574",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "5661378525094173201",
+            "block": 2046300,
+            "txHash": "0xf0e8fb5d87c479b3518dfe86551f6c4455672cb73f397758d2d49a17ac6ec111"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x3cfdEb8cBe691ca2c7B9C4932eFe4c98198c5b36",
+            "repay": "3587865436016832500000000",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "2807551341992530597673875",
+            "block": 2046876,
+            "txHash": "0x6e6feb8925ba47d7920232010120c9208ea8597ac7162ba9da4777a56a65122a"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x3cfdEb8cBe691ca2c7B9C4932eFe4c98198c5b36",
+            "repay": "4090172213837194700000000",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "3044738833213307769584813",
+            "block": 2046976,
+            "txHash": "0x7c8ca98ff22e221d0745c6adc90260dde8a7dc95481a8ce279657245639678e3"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x3cfdEb8cBe691ca2c7B9C4932eFe4c98198c5b36",
+            "repay": "3185509441180343000000000",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "2353985934519139652273697",
+            "block": 2047059,
+            "txHash": "0x8f51a63d20662196df48ab2b064afc361d3e5010420627fe5076603c8734e81f"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x81E92ab632141d063224C339C0a3B1b946b8e651",
+            "repay": "379087876166827340000000",
+            "cCollateral": "0x09e3d97A7CFbB116B416Dae284f119c1eC3Bd5ea",
+            "seize": "580295542183021875002",
+            "block": 2048194,
+            "txHash": "0x9999df3cbd19206e305543949b32dac409a096e5a18e3971b5b8b4b24b5f0f6f"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xF23071EB972acE9f61F3dFfA7774c8639b6C8Ea9",
+            "repay": "554526224694940771165",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "447461293443392683766",
+            "block": 2053099,
+            "txHash": "0x4a6041588c59654072171daecf7bde6306f00d4bcf7d0e0b5c9f21a5595a008d"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xF23071EB972acE9f61F3dFfA7774c8639b6C8Ea9",
+            "repay": "277263133009273156416",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "223730663394229724403",
+            "block": 2053104,
+            "txHash": "0xc67dc8b5a862fe61d89d3c26238acbec15564cdb841d5aee62f4dff2b3e262f1"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xaBBFdE3cd7505f8314b9b3a497BB758D9611738f",
+            "repay": "16298469193309412271",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "1051421520444921640",
+            "block": 2053199,
+            "txHash": "0xaac67ba68e6e1bc3243a0b13a892a9678536cb0616d89ec1e0aeb66d885f3322"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x48B552018992Ba8fd14e558183F59F7FEd2bC2A0",
+            "repay": "5096560505492782509444625",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "4255660454407747984936220",
+            "block": 2053205,
+            "txHash": "0x87f6aae68e3002bed05f7277956f533dbf8246037e55de6f6a9a95f52a0df6a1"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x48B552018992Ba8fd14e558183F59F7FEd2bC2A0",
+            "repay": "2548280403772465736110354",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "2127830137555119027694862",
+            "block": 2053210,
+            "txHash": "0xc37b4846b62f99fd3303faeb739fa4730eebef0fa2b73213a2f6832db356634d"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xF23071EB972acE9f61F3dFfA7774c8639b6C8Ea9",
+            "repay": "138631809656010258281",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "115622319414089142597",
+            "block": 2053251,
+            "txHash": "0x135ad0940773b2fa1d88693646b042b305eb633c06ffc835c3a23302917dd63b"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x48B552018992Ba8fd14e558183F59F7FEd2bC2A0",
+            "repay": "1274140900845987620166324",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "1063914637438975963358415",
+            "block": 2053257,
+            "txHash": "0xb362d57c0e7ee7bc6bd1c732021e87625dc77f37e0980873500bea8ba806f515"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x48B552018992Ba8fd14e558183F59F7FEd2bC2A0",
+            "repay": "637070509446683525760841",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "531957282399903572902764",
+            "block": 2053265,
+            "txHash": "0xa15d31a82720db8d771a3a3ffa62c9b85b1c95c00a45cb6584d013a9dad4c8df"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x48B552018992Ba8fd14e558183F59F7FEd2bC2A0",
+            "repay": "318535276770556886559153",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "265978627415753573628472",
+            "block": 2053271,
+            "txHash": "0xd5e580127e4859a37e13b95d9400983e12badc7f57e2e351c4f346234e93bd74"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x48B552018992Ba8fd14e558183F59F7FEd2bC2A0",
+            "repay": "159267649387219275541904",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "132989306837059091487900",
+            "block": 2053277,
+            "txHash": "0x9a3fbc56950406ed4ce5ca276c6fc0f0b62b8fd82a633bae2ea04652e2ecc097"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x500Bd55C6f809AcC9de416b96872D5c217607Cd3",
+            "repay": "343303163694332019",
+            "cCollateral": "0x033F8C30bb17B47f6f1f46F3A42Cc9771CCbCAAE",
+            "seize": "51075864428510356",
+            "block": 2055398,
+            "txHash": "0x75ae9a2f2566a99d10091e1878c9e791bcaba0b65944a1445bcbdef0c9ebc02a"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x09653697A4Bec4e1945cB6868bB94f6204F6EbbE",
+            "repay": "55610907084646114",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "15011199314996836436",
+            "block": 2055499,
+            "txHash": "0x958f5e0ec91247510aa029552a194cc3fcfb777bbddb0aa1ad480a432294b69b"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x09653697A4Bec4e1945cB6868bB94f6204F6EbbE",
+            "repay": "27805454913601968",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "7505600027651363541",
+            "block": 2055503,
+            "txHash": "0x4fcd8d22065e966eaa85dcf5913295567ed1dce1d89100569a04103288f81477"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x92dC6E040a1B9b4DD936ee6F454F4c3Bdfc9fcB5",
+            "repay": "1729454689399015209",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "93787462289257363929",
+            "block": 2065398,
+            "txHash": "0xe699da7ff6401cde15e9f22d67c185c1954e4855b7cc5654cf2fbba47da90828"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x7F1E6B897c6b6251cB039cE2b390D49A5c6b8c47",
+            "repay": "350554429001",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "4490516567520867211930",
+            "block": 2082498,
+            "txHash": "0x0739d460111ef3835c476c31705b4069a7587852809e43e459b8580c99c5ca6c"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x92dC6E040a1B9b4DD936ee6F454F4c3Bdfc9fcB5",
+            "repay": "771714192501742",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "77135697573693991040",
+            "block": 2086298,
+            "txHash": "0x59de54f0d3d1d23f81a4a11bd59f356532f10decec57748fa842dd28527a0b33"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x92dC6E040a1B9b4DD936ee6F454F4c3Bdfc9fcB5",
+            "repay": "385857112489685",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "38567850409976721304",
+            "block": 2086302,
+            "txHash": "0x9be51dc74d998fcd990a0bd6e0537614d05a946b56cd65ce6831870b8145e1cc"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x92dC6E040a1B9b4DD936ee6F454F4c3Bdfc9fcB5",
+            "repay": "865233032037634863",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "46895557094969678742",
+            "block": 2086309,
+            "txHash": "0x94ab530fefe2c3db1dec9d8b4aac71b73be0b23eb85580036406ed8818fb75c8"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x92dC6E040a1B9b4DD936ee6F454F4c3Bdfc9fcB5",
+            "repay": "12268574757482",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "31868097096910931756",
+            "block": 2090898,
+            "txHash": "0x43c9951b8157f30336e1ad81071b1c46b5e243b9d7be5a1f99e6e3091f067da1"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x92dC6E040a1B9b4DD936ee6F454F4c3Bdfc9fcB5",
+            "repay": "6134287699078",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "15934041537979997655",
+            "block": 2090902,
+            "txHash": "0x85c929d8fb4ea5cac04f0b6ec823e5026a5d59ec258debb8e4a8cbc9e2bb2f1c"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x92dC6E040a1B9b4DD936ee6F454F4c3Bdfc9fcB5",
+            "repay": "432687193439992656",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "23463872925290692718",
+            "block": 2092198,
+            "txHash": "0xf953252f33f7094142017bde7f95a94ec10feadbb0e0f10f96117bbbb76b3f10"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0xcdcf62341bBa786372156392Cc7Ac5e221b804b2",
+            "repay": "236069557984278970000000",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "15945273055457817156113",
+            "block": 2109686,
+            "txHash": "0x5258f3772e6418ccc7dc93d1229ee7e3c79dcb8ac0da295874d3828f298bda49"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x5ce6ef514542f90bb9Aac088baC203b1694c7356",
+            "repay": "31596031988778794680643",
+            "cCollateral": "0x749E0198f12559E7606987F8e7bD3AA1DE6d236E",
+            "seize": "118683217609444247137087952",
+            "block": 2120703,
+            "txHash": "0x9bb6f99ffe8e4fff3870a8a3529f68aa5b4a5f63eee218dca6d23b26a115dde8"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x18623BC5bd70781c41BF565880294fa5b62147cF",
+            "repay": "378613569572112432",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "950966570074657878086",
+            "block": 2138652,
+            "txHash": "0x9c876322ed057fdad9a86f8ad249a5b4d67d47f530c84c76eb0936069bba44a7"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x18623BC5bd70781c41BF565880294fa5b62147cF",
+            "repay": "189306798749689458",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "475483320109892304725",
+            "block": 2138655,
+            "txHash": "0xf40dc5cf4d7d896396f2d98ec12ea9265f17e19a3a6980bbce3465c590a77f14"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x18623BC5bd70781c41BF565880294fa5b62147cF",
+            "repay": "94653415678802902",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "237741701005721371383",
+            "block": 2138662,
+            "txHash": "0xa12ef20bfc525d8baaba11d96a045d5df931a69867530e202903ae9e9c474b89"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x18623BC5bd70781c41BF565880294fa5b62147cF",
+            "repay": "47326715992467333",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "118870870980978007689",
+            "block": 2138669,
+            "txHash": "0x7adb257142b73123797940f4bdde4bea1e1778b802aaaa44866f9bee0a814198"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x18623BC5bd70781c41BF565880294fa5b62147cF",
+            "repay": "23663361490404836",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "59435444266825192926",
+            "block": 2138675,
+            "txHash": "0x740b62b3d1d1b63108d48f6b919b5f5dea3f6bbaf8dba364e43be33db56ffebb"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xC0f3b65424e1A05D78637b48870c13D2f5F06B35",
+            "repay": "1020005554414004257",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "55245741548999589618",
+            "block": 2143051,
+            "txHash": "0x62dfac11db38eb0941c6e405dc2fd3ef2541efb4e8afd4f991143de96477fbc5"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x538e41137210D92fA73CC64E8eb730b02A2F6427",
+            "repay": "41252153650813127165106",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "201671102804215876155841",
+            "block": 2154107,
+            "txHash": "0x378572f076de22f21f1be0c97331ba9a1851b24e4ecf79a950ef1b654ec7a14e"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x4B5a97B53c4431c7A615Ad526598E5cC68FC9274",
+            "repay": "38507457110903593679",
+            "cCollateral": "0x749E0198f12559E7606987F8e7bD3AA1DE6d236E",
+            "seize": "2209788661745513785640026",
+            "block": 2154199,
+            "txHash": "0xdee05f0d3a6674d13b3ef33beabadc86bcbc4bae85b8ef25f1721a5d354fa0f8"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0xAfcc4b3ea1D74279C4486DB3A937cd6D0CB4a072",
+            "repay": "42015502602",
+            "cCollateral": "0xAc9E3AE0C188eb583785246Fef37AEF9ea159fb7",
+            "seize": "1262024515252288142020",
+            "block": 2154537,
+            "txHash": "0xa23e24362226e8c918eaded2141bddab59997b465ea1cdea0411b2a69f09490b"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x6f2829b988aDABcDf75c3b2ac496501988b0a828",
+            "repay": "368585510860",
+            "cCollateral": "0x749E0198f12559E7606987F8e7bD3AA1DE6d236E",
+            "seize": "16873006479441349296561526",
+            "block": 2162598,
+            "txHash": "0x10827e6b0ea9018095e2334e09589d3f14169e660d2aecff811b1bee53471dce"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xA0126462a2031EdA82BbcfC6B63dc5eCE02048b9",
+            "repay": "100041953971024177020",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "2540720576614733143543246",
+            "block": 2181898,
+            "txHash": "0x244b0f4c1efe2416432e0351a2ec880ed1dedffc19179b6b35675ccb116de4c0"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xA0126462a2031EdA82BbcfC6B63dc5eCE02048b9",
+            "repay": "1500836981978434191559",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "2137712363741165279795892",
+            "block": 2182697,
+            "txHash": "0x5ddbfe5ac03a716ebfc908e57c708973858595c370cd438d730c383f44c34281"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xA0126462a2031EdA82BbcfC6B63dc5eCE02048b9",
+            "repay": "750418553155332954511",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "1068856230322913788809675",
+            "block": 2182700,
+            "txHash": "0x3b434ffecd5b5d047d514b105241da52e7e7eef773197affbf310ed849d9a84b"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xA0126462a2031EdA82BbcfC6B63dc5eCE02048b9",
+            "repay": "50021821234192674118",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "1279388037032832965705342",
+            "block": 2182707,
+            "txHash": "0x0ceb8e2fef9e08b4995b5475a537159be5228c041a9bb2a0a597da7a28fd78f4"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xA0126462a2031EdA82BbcfC6B63dc5eCE02048b9",
+            "repay": "25011059227906489460",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "645591830312196220702481",
+            "block": 2182997,
+            "txHash": "0x1fd6d7fa0c044c05ae1e74865b7431fd6232ae24250bbdf7d6dd5e5c598fe9aa"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xA0126462a2031EdA82BbcfC6B63dc5eCE02048b9",
+            "repay": "12505530370016624912",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "322795934671798624910358",
+            "block": 2183000,
+            "txHash": "0x009c738fbec1800d71b78744efc481a2398998897e61b592f59ce9e4485400ee"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xD2466d76fdCf91ce8dd828494567BD3923b124Ca",
+            "repay": "24063690218943347845962",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "19516133441744659840292",
+            "block": 2250395,
+            "txHash": "0xedfda088cc9b2be4ad862c6e0b84ddab2c7b7d0547ebd391af8212eedcfd4ae4"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x4e42E3f3936e9B417fA095374dE633166a99bDF1",
+            "repay": "6057248238722476569797",
+            "cCollateral": "0xF2a308d3Aea9bD16799A5984E20FDBfEf6c3F595",
+            "seize": "130351654502894452373",
+            "block": 2284477,
+            "txHash": "0x41d31bee613dc3fd2369d0871bf427ee383065249d31e0d8e14f24eb501666d0"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x4e42E3f3936e9B417fA095374dE633166a99bDF1",
+            "repay": "3028624356469779807882",
+            "cCollateral": "0xF2a308d3Aea9bD16799A5984E20FDBfEf6c3F595",
+            "seize": "65175829809648256998",
+            "block": 2284486,
+            "txHash": "0xa85d6f13e9f4d8a0d60e7799e63414bec25773decda0edce39a9ad47a4e29639"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x4e42E3f3936e9B417fA095374dE633166a99bDF1",
+            "repay": "1514319219430914621931",
+            "cCollateral": "0xF2a308d3Aea9bD16799A5984E20FDBfEf6c3F595",
+            "seize": "33847322601483355881",
+            "block": 2285027,
+            "txHash": "0xa8c5b12ec086fd48efa974762f84357f912c247d8d860bb4119e1946eefa2b78"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x5889B938dD683373554DE1afAac53195046419Ca",
+            "repay": "15029294689892928615",
+            "cCollateral": "0xAc9E3AE0C188eb583785246Fef37AEF9ea159fb7",
+            "seize": "927483070588593983573",
+            "block": 2287436,
+            "txHash": "0xd5dd4098e9cbb4a00d6f7d6ac4df78cd3200c23954e4511c5964b177e579da71"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x4e42E3f3936e9B417fA095374dE633166a99bDF1",
+            "repay": "757196971856253824214",
+            "cCollateral": "0xF2a308d3Aea9bD16799A5984E20FDBfEf6c3F595",
+            "seize": "17675869273011662199",
+            "block": 2290638,
+            "txHash": "0x845223df3230520be5b21c8b5ffcc2bed42a4e744f821699ba08ccd785cf9bd2"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x00C92be0eecd1be3Fe3105a5a51893a08A38a79D",
+            "repay": "400456975532304",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "1206310775848016160050",
+            "block": 2291836,
+            "txHash": "0xd91c39962da7d096fc1ac13c8934f812d2cf014f48193b4901ef1d34522df944"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x4e42E3f3936e9B417fA095374dE633166a99bDF1",
+            "repay": "378607422598046615287",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "11931263067204110963327",
+            "block": 2293236,
+            "txHash": "0xc70c54be756ea64109663f31704070dbf19a8d700d42bccc44ad139e7124fd65"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x1B5056Fce77b1Fd2669A7Dba4a690B39B795A4Fe",
+            "repay": "20551346551530802611466",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "21921921256186458226068",
+            "block": 2302237,
+            "txHash": "0xd812cd6c334f1b3ee1ccf0b51fb0571626f6ec79e84eac1367bb59e6cd5a2c70"
+        },
+        {
+            "liquidator": "0x7CCe3eb5F7aDA50E3462982d4Fc9B22Be18d0375",
+            "borrower": "0xD56C241218bCfC118b9d72C5620556408E03d0d3",
+            "repay": "372954111474631144",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "473661252349799334423",
+            "block": 2304220,
+            "txHash": "0xe8dbe12ed770f04d817cc8074705393390be808ec7bcc8862c45069520ef9cac"
+        },
+        {
+            "liquidator": "0x7CCe3eb5F7aDA50E3462982d4Fc9B22Be18d0375",
+            "borrower": "0x18623BC5bd70781c41BF565880294fa5b62147cF",
+            "repay": "35573825204073",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "1895806890506617",
+            "block": 2305052,
+            "txHash": "0x91b64454415c7b5eb9899b65d611f2d950ba1dcb7f20366b4f523a6acfefbb5c"
+        },
+        {
+            "liquidator": "0x7CCe3eb5F7aDA50E3462982d4Fc9B22Be18d0375",
+            "borrower": "0xee439Ee079AC05D9d33a6926A16e0c820fB2713A",
+            "repay": "1989706558764344668",
+            "cCollateral": "0x749E0198f12559E7606987F8e7bD3AA1DE6d236E",
+            "seize": "107880417056183299735",
+            "block": 2305422,
+            "txHash": "0xc028b79b524368d8ece5ec21fa4f33740f76c0cf6b54cb502025898ac267fb1b"
+        },
+        {
+            "liquidator": "0x7CCe3eb5F7aDA50E3462982d4Fc9B22Be18d0375",
+            "borrower": "0xD55a647A2c2EA03866191Ec55bD70e5C3495b949",
+            "repay": "171672595154",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "218361422948231",
+            "block": 2305568,
+            "txHash": "0x5c6ab9a44d06903b0d32469a889ecb3f987c7157ccd13b670b50b0e4ac6bf067"
+        },
+        {
+            "liquidator": "0x7CCe3eb5F7aDA50E3462982d4Fc9B22Be18d0375",
+            "borrower": "0xF23071EB972acE9f61F3dFfA7774c8639b6C8Ea9",
+            "repay": "1892971371935700014",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "418194451799774775",
+            "block": 2306226,
+            "txHash": "0xfb3475e206603b6cff8eec21c15d80ade25071805d1577aaec25864336b4ce20"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xB93d33AcEF7259BD887A84590B2Ec05d14D53Bc5",
+            "repay": "1950188927969156349393",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "133460002508313238470305",
+            "block": 2312336,
+            "txHash": "0x9ffb464fd9351f674ac3efe5ccc902c4aa3710fcc1841ffeef13fe7a89725060"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x054E241BEDA905D7125920AC26d0d503273692B6",
+            "repay": "6072872700273950667876",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "15353013624784944885652",
+            "block": 2313668,
+            "txHash": "0x1651547580ba6383a31e7727aaebb68e15b3df219d301f72cb29b7556f349c21"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xB93d33AcEF7259BD887A84590B2Ec05d14D53Bc5",
+            "repay": "975125903537839661407",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "78400888607192757684386",
+            "block": 2315237,
+            "txHash": "0x2f286238cb0ec120c6fab1754f727a52589800be6c723412743c5fd349f39a9b"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x35492867e36Dcd6dfA7CA1003f9BB850595d3C93",
+            "repay": "2510858734499857171391",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "6796699261211234206862",
+            "block": 2322636,
+            "txHash": "0x942963a7732e99a23afa3aa831245778fdd90fbd895a2e17e6e3eea8b5a9953d"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x6a44A0a150dBB7489F3858f7761a9933Bfc44987",
+            "repay": "43511453044452070000",
+            "cCollateral": "0xCca471B0d49c0d4835a5172Fd97ddDEA5C979100",
+            "seize": "1495968292460872513556",
+            "block": 2335593,
+            "txHash": "0xb52768e80930fd2963586877a3d947220dba3ee7693c23b90f4a2fce75140216"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x4cAE9614AE4bF70db596F6D351D887eDed4Da6fC",
+            "repay": "3307777373964411290925",
+            "cCollateral": "0x749E0198f12559E7606987F8e7bD3AA1DE6d236E",
+            "seize": "12331075672054331768626817",
+            "block": 2369935,
+            "txHash": "0x92b33a29930edb4e80094de8c4d0de2c1fe3d3fc4e5d827ccb768c2d5c51319f"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xA3D492b7EFDa4553DAD969A73af447A181F5c840",
+            "repay": "30015272928923929766",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "87390022069144212731",
+            "block": 2370024,
+            "txHash": "0x70043bb7895e4629c42693fcebc3ee87451b44010482eea69c639fe2aeb9ab5a"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xcb07Ee499f5dD57f0C111C3B0F64BecA932f1612",
+            "repay": "67350342634969981751",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "196091764082566587516",
+            "block": 2370033,
+            "txHash": "0x95ca2f30f13ee028027d8fadc43d16de10b2beb014a37d28e3a562a93751a8b6"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0xF830CA0B52BFE909C36e5b58eE52D0AFf7c19571",
+            "repay": "27342472307",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "395317514254250445350",
+            "block": 2370040,
+            "txHash": "0x623602c4018ebd4c72c3d3c51a45e5516b96e4b02fdd944f5c2ba68e05de1633"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x35492867e36Dcd6dfA7CA1003f9BB850595d3C93",
+            "repay": "1339665717771728574369",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "3900461317373443745909",
+            "block": 2370047,
+            "txHash": "0x2ed66f6b468d9402eade86ebe67089f9cf35bd65d2e7460a8bd932feab390c34"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x35492867e36Dcd6dfA7CA1003f9BB850595d3C93",
+            "repay": "127380371261",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "3709088077941633105160",
+            "block": 2370054,
+            "txHash": "0x36a5cd56fecda48e9f19c03efa81dd2adf676db902f19319db9b27c7548acb91"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x5db63f987817910Bbb9656B5210990408d3831fB",
+            "repay": "2000962568331",
+            "cCollateral": "0xAc9E3AE0C188eb583785246Fef37AEF9ea159fb7",
+            "seize": "47225077607802629665480",
+            "block": 2370061,
+            "txHash": "0x41afc1c06bb12c00938b1562172a18c3379f300b7c9fb09245c45a362be6bf93"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x9F4fEAf94104BC8506eB9660E3F73F0b795Ed45e",
+            "repay": "36011322090618895942",
+            "cCollateral": "0x043aFB65e93500CE5BCbf5Bbb41FC1fDcE2B7518",
+            "seize": "58361973316077072808",
+            "block": 2370077,
+            "txHash": "0xaa5a82f83709385e91abf1a75a2e23ffa600ae2c2f634063452b6aea686cf33c"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x0257FfE501E6D7670c5510b6d8A558EddEA79475",
+            "repay": "7513746026",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "228020137953457697014",
+            "block": 2392442,
+            "txHash": "0x6e66229c7c909786470c8aca3ee16915270866d4dd6e82627f36c9f18bc3026b"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x077627469c10897b55682Ea90f6997Bf28B3e00D",
+            "repay": "593971861520963000000",
+            "cCollateral": "0x4937A83Dc1Fa982e435aeB0dB33C90937d54E424",
+            "seize": "186216944027375279311",
+            "block": 2392498,
+            "txHash": "0x795032bedce8f95f93411ee13ace873d941e1b1c446882922e4b3e09c52164e6"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x35492867e36Dcd6dfA7CA1003f9BB850595d3C93",
+            "repay": "670294051284498576695",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "2125313211621149414945",
+            "block": 2392521,
+            "txHash": "0x2701e00133c1904c8eb55b73942251ec08683041d2faa09b5edde8f4e948a5b5"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x35492867e36Dcd6dfA7CA1003f9BB850595d3C93",
+            "repay": "63730916506",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "2060051890537681188685",
+            "block": 2392833,
+            "txHash": "0xcd1978080d9db645d98cffb0527d1e001a70b58e173c8fdb8636e17a0061b9e7"
+        },
+        {
+            "liquidator": "0x101ed3E036673643c362acae67f4861a24Fa33D2",
+            "borrower": "0x59756A0c91b80F395768e7EFE87DD00030ec6a2F",
+            "repay": "60045484843286361198940",
+            "cCollateral": "0x033F8C30bb17B47f6f1f46F3A42Cc9771CCbCAAE",
+            "seize": "2338297913805636552992",
+            "block": 2395726,
+            "txHash": "0xa5fce6ad76296328ec3feee284881a50236c7a46ef4ebd543613afc318fb57ec"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x077627469c10897b55682Ea90f6997Bf28B3e00D",
+            "repay": "373222248075793740000",
+            "cCollateral": "0x09e3d97A7CFbB116B416Dae284f119c1eC3Bd5ea",
+            "seize": "42236163682908658414",
+            "block": 2405744,
+            "txHash": "0xb0a9b92012c97ef4bf118ce4f28db033816f97e19a03580523263bf3df32135b"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0xBaa4F0Ab49c932322035516b6dB1dF020B36968b",
+            "repay": "1427328540636582300000000",
+            "cCollateral": "0x749E0198f12559E7606987F8e7bD3AA1DE6d236E",
+            "seize": "77341501717857534700684208",
+            "block": 2419920,
+            "txHash": "0x6e798b72dbd228fe38970834d2f3c9845b445ef804c39c2dfb0103a08a776497"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x65FCaD3CEe231375C604DC017492B3E0DfF75412",
+            "repay": "250007302844914506518",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "508981509668369907257147",
+            "block": 2420445,
+            "txHash": "0x82e84b3b365c825c3629606cd4178cf9053d738b7b0630363e8c2d1134f68b50"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x65FCaD3CEe231375C604DC017492B3E0DfF75412",
+            "repay": "125003746281017650000",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "254490607539467950958583",
+            "block": 2420516,
+            "txHash": "0x2c74ab63989fc8d3cf2e8eba9dbff7023a98ed66bc6bb321e329213e23e0ae7b"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xB512Dcb4BA140d202525a6C364Be273F353E2c17",
+            "repay": "4508994239639",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "121388480827443650384196",
+            "block": 2420822,
+            "txHash": "0x0f99bf5071bbd2aa815416a13a7f4b8df2e33d8e6d227a2a8fbb7a6b0762cfed"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x004307CF2a8e3959196edb4BFE217Ab3E4F9A13C",
+            "repay": "1158511534502685307514823",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "971387796992697506644108",
+            "block": 2421223,
+            "txHash": "0x770d804da15f90b986f134d24ecf6863238d328bb4d26f1f8683776ee978216b"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x004307CF2a8e3959196edb4BFE217Ab3E4F9A13C",
+            "repay": "579256347796873000000000",
+            "cCollateral": "0x749E0198f12559E7606987F8e7bD3AA1DE6d236E",
+            "seize": "31387428264032367003096789",
+            "block": 2421313,
+            "txHash": "0x3423a6ca00ff08e95e6b0fafdd7aa7050aa8fdf67b83fed434f70f3629143154"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xB512Dcb4BA140d202525a6C364Be273F353E2c17",
+            "repay": "44148210347429283799417",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "120800967285209367070767",
+            "block": 2422822,
+            "txHash": "0x12f0994dd9fb7320274aed5dd27bd3a846701c8f93dc3a04c3994aefb7984ee2"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x06DA7CBEC0778B6A1103F238c2d15b19582a1e23",
+            "repay": "6966998336022792779138",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "325802657349710927385",
+            "block": 2422926,
+            "txHash": "0xfbd8c441e8a6c7e73360ac55089a27a6ed4948223ec6b05f2899851c0db23d2d"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0xD2466d76fdCf91ce8dd828494567BD3923b124Ca",
+            "repay": "11899901092459900000000",
+            "cCollateral": "0x749E0198f12559E7606987F8e7bD3AA1DE6d236E",
+            "seize": "644791466214366156900975",
+            "block": 2425337,
+            "txHash": "0x4b778a0ee4624511aef2455191fe3cf6b4173e40a4df844b822ca497e4dcbb2b"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xB512Dcb4BA140d202525a6C364Be273F353E2c17",
+            "repay": "2254872611843",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "63874553568261185842509",
+            "block": 2426822,
+            "txHash": "0x1bda42ff634bceeb123df98016b6ae2cd5cc9061c5993ce1f3ef07e789d057c3"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x2fC5Fe33B36F75219beB038DB84049Ffa74Dc036",
+            "repay": "3201004288022791716021",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "9189916975175216188888",
+            "block": 2428222,
+            "txHash": "0xf1ce21a9121f07fb627fcf88cfd7b000195f7a15f2d9ec12de8c35e5365a7ae2"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x8f27184c2d460428C57D73c194DBB9Ce02F0C892",
+            "repay": "115353838",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "2555066477100899316186",
+            "block": 2428415,
+            "txHash": "0x11b534083897840b5c8c95a551b5acb9ca8cbb9ece3c268348c17e918ebdeba6"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x8f27184c2d460428C57D73c194DBB9Ce02F0C892",
+            "repay": "57676928",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "1277533334127273109146",
+            "block": 2428419,
+            "txHash": "0x0dcbd74ab550f391ee56ac66b88d69b68b59e4e7f3fb8e805687c9003e290576"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x8f27184c2d460428C57D73c194DBB9Ce02F0C892",
+            "repay": "28838473",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "634400361924864942706",
+            "block": 2428426,
+            "txHash": "0xd4bf9a036e098ea3ac933b21c57afa4a4e9944ee91e728b5fc618ece5e7145af"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x8f27184c2d460428C57D73c194DBB9Ce02F0C892",
+            "repay": "3098140356430732085",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "558755158477080387443",
+            "block": 2428433,
+            "txHash": "0x1c81255a7647358f714216227ffa2049b4623692b3ea50d5df1eee797c75ee41"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x8f27184c2d460428C57D73c194DBB9Ce02F0C892",
+            "repay": "14419253",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "317200370040806505830",
+            "block": 2428453,
+            "txHash": "0x52fa858afc730da39c7231b5a36eb772d11c7918be3e52aad9ffbff2d1a7ab8e"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x8f27184c2d460428C57D73c194DBB9Ce02F0C892",
+            "repay": "7209627",
+            "cCollateral": "0xAab0C9561D5703e84867670Ac78f6b5b4b40A7c1",
+            "seize": "158600189583839031151",
+            "block": 2428455,
+            "txHash": "0x18b716159c8cc6839f8b3b98c57cf537c0da17bc6414e07017117768b780eac5"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xB512Dcb4BA140d202525a6C364Be273F353E2c17",
+            "repay": "22077709597629926380427",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "63695131459268966216509",
+            "block": 2428923,
+            "txHash": "0x2541baaaca687513170a66e36d82eb599bf16a892ab62707579ebd83aa69f25e"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x27Cf3B3291135b71Dc961db2e4901922765eAbd8",
+            "repay": "19351100572189",
+            "cCollateral": "0x033F8C30bb17B47f6f1f46F3A42Cc9771CCbCAAE",
+            "seize": "6777759742316724373724",
+            "block": 2436321,
+            "txHash": "0xa4222140dfd7d7842b84aeabab245213455e0cbe55dd186e0fadfac1bb3fd30c"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xB512Dcb4BA140d202525a6C364Be273F353E2c17",
+            "repay": "1127912569414",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "30683655726674057075194",
+            "block": 2440621,
+            "txHash": "0x068ec860b0c515fb9d1c41f35a8c46cd6d91c610a22166edde5bcf1fe20e449d"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x621CbeaF7FB99E1474C1824C3F841E2C56210F8d",
+            "repay": "200000804622",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "5507309857329019679973",
+            "block": 2441522,
+            "txHash": "0x61fdbdf9afc1184cfffab9c027884024e3aa42d7f4127bcfd4476daf428b12ea"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x0F6aEa4AC04F35350dbDAa284Ba809Ab6F6EF7bc",
+            "repay": "78848842967997985377065",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "217226093987700381733339",
+            "block": 2441526,
+            "txHash": "0x165f21c5ef735ba8ae754d0826011142f1634e4d828b26648cf9262209f84fb2"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x621CbeaF7FB99E1474C1824C3F841E2C56210F8d",
+            "repay": "100004107635",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "2782440192624329393847",
+            "block": 2443021,
+            "txHash": "0x54b59d18d00cf3c3b01fa8d1a2f6ff965bf11c7aa1cce4d886707b2738393953"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0xB512Dcb4BA140d202525a6C364Be273F353E2c17",
+            "repay": "11043183359175442000000",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "31415973674101670660729",
+            "block": 2443321,
+            "txHash": "0xebdc4b89a5cc78b5c9e8ac77eb670289cd859f52caabad425429e4cbad73d94c"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xB512Dcb4BA140d202525a6C364Be273F353E2c17",
+            "repay": "564070526626",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "16051823046537343276709",
+            "block": 2448822,
+            "txHash": "0xc693028731b1ffc2f7dc059a46b83db6796c5c52f841ed41c35527170a70fea6"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x32321452d0735FFF5424A0316D209e685f11cC65",
+            "repay": "45006222564303176491080",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "135544621183803127313120",
+            "block": 2452121,
+            "txHash": "0xade454a6a734050ce92fd4a4359c05bbbc7ceed46815795ac804cc1e9917fd2e"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x5be09642a08cc9cE24d79eB6aCe94f3a3c041c89",
+            "repay": "62278753423830133331073",
+            "cCollateral": "0xB16Df14C53C4bcfF220F4314ebCe70183dD804c0",
+            "seize": "62638096233767447870372",
+            "block": 2455221,
+            "txHash": "0xc3f007cbed064ca1bf2f6f419d1127289fab5841d5c55783d704698433678983"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x5be09642a08cc9cE24d79eB6aCe94f3a3c041c89",
+            "repay": "31139376711915070000000",
+            "cCollateral": "0x749E0198f12559E7606987F8e7bD3AA1DE6d236E",
+            "seize": "1687053744330179637311352",
+            "block": 2455224,
+            "txHash": "0x62984bac4241c0d6a44badfec21e5e332e1fe961763eef04b3c7ed6a7489707c"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x32321452d0735FFF5424A0316D209e685f11cC65",
+            "repay": "22506725413176537212021",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "66033668204253477648506",
+            "block": 2459121,
+            "txHash": "0xe80d701f37169af3d9700fc6f208a2467654fbf13abfb4bc6b2d67b736ff3960"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x0FcA5fa4441A743Df23bf2b375721bA2B4B55ba9",
+            "repay": "215413709320",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "7005080231806370339815",
+            "block": 2467921,
+            "txHash": "0xf120f9836548bb7fde4a7716ff9271938e9b298826b03f2d7f0cccf23d726402"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xcb07Ee499f5dD57f0C111C3B0F64BecA932f1612",
+            "repay": "33766399767951656302",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "109769680921491954184",
+            "block": 2467922,
+            "txHash": "0x1975b2f0525c4d7fa648863332b9ce7308e17563a45945824900ec3ba7748993"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xeaea7c676A0D3Ff0b01937F82d5df403425309ba",
+            "repay": "41798425091902441865635",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "138784501318681784833194",
+            "block": 2469022,
+            "txHash": "0xa3ea3103378974dbf9defad1f1f7320788a27f96ed8db0c2039e18573af17825"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x0257FfE501E6D7670c5510b6d8A558EddEA79475",
+            "repay": "3765053514",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "128854384642422743361",
+            "block": 2474943,
+            "txHash": "0x2c4c5fb4ddfa7dd295c29aa53d0c2c94fc2212a8f60e132c3924fdfa3985dee7"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0x0FcA5fa4441A743Df23bf2b375721bA2B4B55ba9",
+            "repay": "107723359690",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "3735140767586077866635",
+            "block": 2475222,
+            "txHash": "0xfbfed2ca6fc82548b81c61d11aedc0116545bd952b234fd2ee0535c0fdfeace4"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x0F6aEa4AC04F35350dbDAa284Ba809Ab6F6EF7bc",
+            "repay": "5234233025120",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "183484623539297297092283",
+            "block": 2475321,
+            "txHash": "0x9ef6561fe938b92ba2d0e42174f40a2ce7cd21b30d149160a9b3154099d88ef5"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xDd6f5296F709Db1bE7F0082bb5E9d8e0ad50b762",
+            "repay": "125053268710657615867",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "438610897599188269882",
+            "block": 2475322,
+            "txHash": "0x7069f8aace72ffff8fd55aa2a03518e53cca3d5e3d15e4d1611b31685cc60929"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xcb07Ee499f5dD57f0C111C3B0F64BecA932f1612",
+            "repay": "16885976090040594897",
+            "cCollateral": "0x824151251B38056d54A15E56B73c54ba44811aF8",
+            "seize": "59225744890679973516",
+            "block": 2475328,
+            "txHash": "0xe7a28f089f06cd1f6930ab345c35915fa208393d2952ae49a6b641116dfcc96c"
+        },
+        {
+            "liquidator": "0xF7333D39fB08b14a976eF8170ACebFc4F5F2AD90",
+            "borrower": "0xE8219946b47AC9cDCb0075d441F09F453466054b",
+            "repay": "18272693686",
+            "cCollateral": "0x0AD0bee939E00C54f57f21FBec0fBa3cDA7DEF58",
+            "seize": "3904756933576753672415",
+            "block": 2477420,
+            "txHash": "0x5380ad8df81901e05bed81043b4b3dc45f5c0455e3a34a5fccde9554d86be372"
+        },
+        {
+            "liquidator": "0x7EAa679F0D93A2bFb07db8a8A9a582a9b7038aEc",
+            "borrower": "0x205605353963Ac093752EEc5191939FF05fB1FC2",
+            "repay": "2794135486987314000000",
+            "cCollateral": "0xCca471B0d49c0d4835a5172Fd97ddDEA5C979100",
+            "seize": "5406619754467135688494",
+            "block": 2477420,
+            "txHash": "0x77aaf3bfbecd83e650fb975fefdda21db3ea974f62deef9461c9e17ed957ed45"
+        }
+    ]
+}
